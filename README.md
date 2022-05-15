@@ -1,6 +1,6 @@
 # Yo
 
-# My Spigot Plugins
+# My Spigot Plugins:
 
 # My Paper plugins:
 
