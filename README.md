@@ -1,4 +1,4 @@
-# Yo:
+# Yo
 
 # My Spigot Plugins
 
